@@ -1,6 +1,6 @@
 {
   "name": "spux",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "solid pay user experience",
   "main": "index.js",
   "module": "web_modules/spux.js",
