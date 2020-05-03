@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "solid pay user experience",
   "main": "index.js",
+  "module": "web_modules/spux.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/solidpayee/spux/issues"
   },
-  "homepage": "https://github.com/solidpayee/spux#readme"
+  "homepage": "https://github.com/solidpayee/spux#readme",
+  "dependencies": {
+    "htm": "^3.0.4",
+    "preact": "^10.4.1"
+  }
 }
