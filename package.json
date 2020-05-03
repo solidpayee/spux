@@ -1,0 +1,21 @@
+{
+  "name": "spux",
+  "version": "0.0.1",
+  "description": "solid pay user experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solidpayee/spux.git"
+  },
+  "keywords": [
+    "spux"
+  ],
+  "author": "Melvin Carvalho <https://melvincarvalho.com/#me> (melvincarvalho@gmail.com)",
+  "bugs": {
+    "url": "https://github.com/solidpayee/spux/issues"
+  },
+  "homepage": "https://github.com/solidpayee/spux#readme"
+}
